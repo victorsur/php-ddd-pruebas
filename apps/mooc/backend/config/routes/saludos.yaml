@@ -1,0 +1,4 @@
+saludos_get:
+  path: /saludos/{name}
+  controller: CodelyTv\Apps\Mooc\Backend\Controller\Saludos\SaludosGetController
+  methods:  [GET]
